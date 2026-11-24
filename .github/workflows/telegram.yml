@@ -2,8 +2,8 @@ name: Telegram MTProto archive
 on:
   workflow_dispatch:
   schedule:
-    # UTC. 07:07 Moscow is 04:07 UTC. Every 30 minutes: 07 and 37 min each hour.
-    - cron: '7,37 * * * *'
+    # Daily at 07:07 Moscow time (04:07 UTC).
+    - cron: '7 4 * * *'
 permissions:
   contents: write
 concurrency:
