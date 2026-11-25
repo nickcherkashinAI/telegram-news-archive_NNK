@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "source": "Telegram MTProto user API (Telethon)",
+  "reporting_date_msk": "2026-11-25",
+  "period_start_msk": "2026-11-24T07:00:00+03:00",
+  "period_end_exclusive_msk": "2026-11-25T07:00:00+03:00",
+  "generated_at_utc": "2026-11-25T05:14:26.640560+00:00",
+  "total_messages": 101,
+  "all_channels_fetched_after_window": true,
+  "channels": [
+    {
+      "channel": "bbbreaking",
+      "message_count": 101,
+      "parts": [
+        {
+          "path": "reports/daily/2026-11-25/bbbreaking-part-001.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-25/bbbreaking-part-001.json",
+          "count": 40,
+          "sha256": "ff029279174922657a43c6a6794485c36515affabd5c2fbec23c8e9dd985ac1c"
+        },
+        {
+          "path": "reports/daily/2026-11-25/bbbreaking-part-002.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-25/bbbreaking-part-002.json",
+          "count": 40,
+          "sha256": "ed2c77691d9a4376dc0dbbeb3ec68b3978fdc31a9e43f80918f551e3e01860ec"
+        },
+        {
+          "path": "reports/daily/2026-11-25/bbbreaking-part-003.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-25/bbbreaking-part-003.json",
+          "count": 21,
+          "sha256": "9b840af7d564b5e7fac921c2ed7a2f972699b0d93302ee9fe7fff6940a0662d1"
+        }
+      ],
+      "last_success_utc": "2026-11-25T05:14:26.640560+00:00",
+      "post_window_collection_confirmed": true
+    }
+  ],
+  "limitations": [
+    "Cannot recover posts deleted before they were first collected",
+    "Binary photos, videos, audio and documents are not downloaded; message captions and media types are saved",
+    "Successful API fetch does not independently prove total absence of unavailable/hidden messages",
+    "Scheduled GitHub Actions runs may be delayed or skipped"
+  ]
+}
