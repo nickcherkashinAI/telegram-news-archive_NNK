@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "source": "Telegram MTProto user API (Telethon)",
+  "reporting_date_msk": "2026-11-26",
+  "period_start_msk": "2026-11-25T07:00:00+03:00",
+  "period_end_exclusive_msk": "2026-11-26T07:00:00+03:00",
+  "generated_at_utc": "2026-11-26T05:14:21.617266+00:00",
+  "total_messages": 89,
+  "all_channels_fetched_after_window": true,
+  "channels": [
+    {
+      "channel": "bbbreaking",
+      "message_count": 89,
+      "parts": [
+        {
+          "path": "reports/daily/2026-11-26/bbbreaking-part-001.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-26/bbbreaking-part-001.json",
+          "count": 40,
+          "sha256": "14df7d88eb3d777e29ae886c162f9e38e0995d66417da489c63be4a6b29cfd98"
+        },
+        {
+          "path": "reports/daily/2026-11-26/bbbreaking-part-002.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-26/bbbreaking-part-002.json",
+          "count": 40,
+          "sha256": "5ada97175f92383253d115b359f6b5734f329bf2b906b16748d06a644e156ac4"
+        },
+        {
+          "path": "reports/daily/2026-11-26/bbbreaking-part-003.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-26/bbbreaking-part-003.json",
+          "count": 9,
+          "sha256": "9d6ef81195d2caada7c50d55beba7b26457480b2d5713777ff348577de2bd50c"
+        }
+      ],
+      "last_success_utc": "2026-11-26T05:14:21.617266+00:00",
+      "post_window_collection_confirmed": true
+    }
+  ],
+  "limitations": [
+    "Cannot recover posts deleted before they were first collected",
+    "Binary photos, videos, audio and documents are not downloaded; message captions and media types are saved",
+    "Successful API fetch does not independently prove total absence of unavailable/hidden messages",
+    "Scheduled GitHub Actions runs may be delayed or skipped"
+  ]
+}
