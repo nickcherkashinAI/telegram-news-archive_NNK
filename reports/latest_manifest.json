@@ -1,37 +1,37 @@
 {
   "version": 1,
   "source": "Telegram MTProto user API (Telethon)",
-  "reporting_date_msk": "2026-11-27",
-  "period_start_msk": "2026-11-26T07:00:00+03:00",
-  "period_end_exclusive_msk": "2026-11-27T07:00:00+03:00",
-  "generated_at_utc": "2026-11-27T05:14:01.832572+00:00",
-  "total_messages": 88,
+  "reporting_date_msk": "2026-11-28",
+  "period_start_msk": "2026-11-27T07:00:00+03:00",
+  "period_end_exclusive_msk": "2026-11-28T07:00:00+03:00",
+  "generated_at_utc": "2026-11-28T05:05:37.892189+00:00",
+  "total_messages": 89,
   "all_channels_fetched_after_window": true,
   "channels": [
     {
       "channel": "bbbreaking",
-      "message_count": 88,
+      "message_count": 89,
       "parts": [
         {
-          "path": "reports/daily/2026-11-27/bbbreaking-part-001.json",
-          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-27/bbbreaking-part-001.json",
+          "path": "reports/daily/2026-11-28/bbbreaking-part-001.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-28/bbbreaking-part-001.json",
           "count": 40,
-          "sha256": "628b077280589c21f1e904d7e7f1fc5b7b57c70eb4c1ba88a06103545fdbb54f"
+          "sha256": "f7801d1e431d63615cf5bc84f3858afff4c927cf707fe10623f8e4a338b4ab1d"
         },
         {
-          "path": "reports/daily/2026-11-27/bbbreaking-part-002.json",
-          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-27/bbbreaking-part-002.json",
+          "path": "reports/daily/2026-11-28/bbbreaking-part-002.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-28/bbbreaking-part-002.json",
           "count": 40,
-          "sha256": "88f0e5e0dce967c545f71937cf6023c859b6197d51324de2a7ce99e31313d6d9"
+          "sha256": "76234dd3371dfb84b8a85bf7cb9ad41ce0121cf90192cea091ff645fafb38530"
         },
         {
-          "path": "reports/daily/2026-11-27/bbbreaking-part-003.json",
-          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-27/bbbreaking-part-003.json",
-          "count": 8,
-          "sha256": "99b32559542f0a6b13027f9bb13c6d216fd0d790167b555b8f7bbe5337e821e7"
+          "path": "reports/daily/2026-11-28/bbbreaking-part-003.json",
+          "url": "https://raw.githubusercontent.com/nickcherkashinAI/telegram-news-archive_NNK/main/reports/daily/2026-11-28/bbbreaking-part-003.json",
+          "count": 9,
+          "sha256": "bce00456cfaa9ce9b2fd6830f755ee067e8ca2bd177a70d3ae311feef41f8494"
         }
       ],
-      "last_success_utc": "2026-11-27T05:14:01.832572+00:00",
+      "last_success_utc": "2026-11-28T05:05:37.892189+00:00",
       "post_window_collection_confirmed": true
     }
   ],
